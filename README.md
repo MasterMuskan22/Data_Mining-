@@ -2,3 +2,5 @@ Data mining methods like market basket analysis are used to identify relationshi
 algorithm in order to design a system for client buying habits of shopping malls,
 marts, etc. All of these solutions will be compared, and the one with the highest
 accuracy will be put into practice
+
+Data Set : https://www.kaggle.com/datasets/devchauhan1/market-basket-optimisationcsv
